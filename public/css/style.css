@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background: white;
+}
+
+.Todo-Item:hover .trash-icon {
+  display: block;
+}
+.flash{
+  background-color: rgb(225, 111, 111);
+}
+.logout{
+  background-color: blue;
+}
